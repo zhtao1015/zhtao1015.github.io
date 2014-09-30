@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://zhtao1015.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: 稻草人
+subtitle: 麦田里的守望者
+author: Tao Zhang
 simple_search: https://www.google.com/search
 description:
 
@@ -19,7 +19,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: zhtao1015@gmail.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
