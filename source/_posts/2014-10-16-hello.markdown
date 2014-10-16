@@ -6,5 +6,5 @@ comments: true
 categories: 
 ---
 # Hello, My Octopress Blog!
-##
+#
 终于把octopress的博客配置好了，接下来把博客从wordpress搬过来，好好在这里建个主页。
